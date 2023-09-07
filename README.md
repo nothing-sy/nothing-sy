@@ -1,6 +1,8 @@
 ### Hi👋, I'm Chen
 
 <a href="https://nothing-sy.github.io/newBlog/"><img src="https://img.shields.io/badge/My_blog-green?logo=ameba"/></a>
+ ![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/nothing-sy/newBlog/deploy.yml)
+
 
 #### My skill
 ![Static Badge](https://img.shields.io/badge/Javascript-green)
