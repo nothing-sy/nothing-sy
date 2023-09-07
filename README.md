@@ -1,6 +1,6 @@
 ### Hi👋, I'm Chen
 
-![Static Badge](https://img.shields.io/badge/My_blog-green?logo=ameba&link=https://nothing-sy.github.io/newBlog/)
+<a href="https://nothing-sy.github.io/newBlog/"><img src="https://img.shields.io/badge/My_blog-green?logo=ameba"/></a>
 
 
 
