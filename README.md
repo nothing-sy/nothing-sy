@@ -14,12 +14,11 @@
 ![Static Badge](https://img.shields.io/badge/CSS-purple)
 
 
+<div style="display: flex;">
+  <img style="margin-right: 50px" src="https://github-readme-stats.vercel.app/api?username=nothing-sy&show_icons=true&theme=vue&rank_icon=github"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nothing-sy&layout=compact&theme=vue"/>
+</div>
 
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nothing-sy&layout=compact&theme=vue)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nothing-sy&show_icons=true&theme=vue&rank_icon=github)
 
 
