@@ -17,9 +17,9 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nothing-sy&layout=compact&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nothing-sy&layout=compact&theme=vue)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nothing-sy&show_icons=true&theme=blue-green&rank_icon=github)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nothing-sy&show_icons=true&theme=vue&rank_icon=github)
 
 
