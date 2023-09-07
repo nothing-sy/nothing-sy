@@ -4,7 +4,7 @@
  ![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/nothing-sy/newBlog/deploy.yml)
 
 
-#### My skill
+#### My skills
 ![Static Badge](https://img.shields.io/badge/Javascript-green)
 ![Static Badge](https://img.shields.io/badge/Typescript-blue)
 ![Static Badge](https://img.shields.io/badge/Electron-orange)
