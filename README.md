@@ -14,13 +14,12 @@
 ![Static Badge](https://img.shields.io/badge/CSS-purple)
 
 
-<div>
-  <div style="display:flex;justify-content:space-between;">
-   <img width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nothing-sy&layout=compact&theme=vue"/>
-  <img width="200px" src="https://github-readme-stats.vercel.app/api?username=nothing-sy&show_icons=true&theme=vue&rank_icon=github"/>
-  </div>
- <img width="200px" src="./gif.gif"/>
- </div>
+
+<img width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nothing-sy&layout=compact&theme=vue"/><br/>
+<img width="200px" src="https://github-readme-stats.vercel.app/api?username=nothing-sy&show_icons=true&theme=vue&rank_icon=github"/>
+
+<img align="right" width="200px" src="./gif.gif"/>
+
 
 
 
