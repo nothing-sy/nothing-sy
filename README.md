@@ -15,11 +15,12 @@
 
 
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nothing-sy&layout=compact&theme=vue"/>
-<div class="test111" style="display:inline-block">
-<img width="45%" style="display:inline-block;" src="https://github-readme-stats.vercel.app/api?username=nothing-sy&show_icons=true&theme=vue&rank_icon=github"/>
-<img style="float:right;width:45%;"  src="./windmill.gif"/>
-</div>
+<img align="right" width="50%"   src="./windmill.gif"/>
+<br/>
+<img width="40%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nothing-sy&layout=compact&theme=vue"/>
+<img width="40%"   src="https://github-readme-stats.vercel.app/api?username=nothing-sy&show_icons=true&theme=vue&rank_icon=github"/>
+
+
 
 
 
