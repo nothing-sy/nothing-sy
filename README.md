@@ -4,7 +4,7 @@
  ![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/nothing-sy/newBlog/deploy.yml)
 
 
-#### My skills
+### My skills
 ![Static Badge](https://img.shields.io/badge/Javascript-green)
 ![Static Badge](https://img.shields.io/badge/Typescript-blue)
 ![Static Badge](https://img.shields.io/badge/Electron-orange)
@@ -14,9 +14,13 @@
 ![Static Badge](https://img.shields.io/badge/CSS-purple)
 
 
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nothing-sy&layout=compact&theme=vue"/>
-  <img style="margin-right: 50px" src="https://github-readme-stats.vercel.app/api?username=nothing-sy&show_icons=true&theme=vue&rank_icon=github"/>
+<div>
+  <div style="display:flex;justify-content:space-between;">
+   <img width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nothing-sy&layout=compact&theme=vue"/>
+  <img width="200px" src="https://github-readme-stats.vercel.app/api?username=nothing-sy&show_icons=true&theme=vue&rank_icon=github"/>
+  </div>
+ <img width="200px" src="./gif.gif"/>
+ </div>
 
 
 
